@@ -1,6 +1,6 @@
-####Hello, my name is Minhaz Iptesham
-## I am learing in flutter development..
-![I am learing in flutter development..]([https://www.facebook.com/photo/?fbid=1527402354349123&set=a.145125562576816](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/317099348_1527402411015784_3193345118039317628_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ZZb-7mDdh0MAX_sgDo_&_nc_ht=scontent.fdac7-1.fna&oh=00_AfACjjAYsGzrpm1d6nJaP8b7uxNmUJ_md8iS1KVyOV5NgA&oe=63953CE2))
+### Hi there 👋, My name is Minhaz Iptesham
+#### I am learing in flutter development..
+![I am learing in flutter development..](https://www.facebook.com/photo/?fbid=1527402354349123&set=a.145125562576816)
 
 I am student of CSE background and I learning in Flutter development and Dart language..
 
@@ -13,7 +13,7 @@ Skills: DART / FLUTTER / JSON / FIREBASE/ REST API
 - 📫 How to reach me: www.facebook.com/minhazttb 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhazIptesham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minhazttb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.micky_19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AgMinhaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/MinhazIptesham)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhazIptesham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minhazttb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.micky_19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AgMinhaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
