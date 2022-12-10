@@ -1,26 +1,31 @@
-### Hi there 👋, My name is Minhaz Iptesham
-#### I am learing in flutter development..
-![I am learing in flutter development..]<img src='[https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/317099348_1527402411015784_3193345118039317628_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=AbfoDfP1TFcAX8zLpA8&_nc_ht=scontent.fdac7-1.fna&oh=00_AfAG4JW_BCua-EzbvwngfnP9KIU6Nnv3UERtNJ324jrg2g&oe=63993162)' width='40' height='40'>
+<h1 align="center">Hi 👋, I'm Minhaz IPtesham</h1>
+<h3 align="center">I'm Learning Flutter...</h3>
 
-I am student of CSE background and I learning in Flutter development and Dart language..
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaziptesham&label=Profile%20views&color=0e75b6&style=flat" alt="minhaziptesham" /> </p>
 
-Skills: DART / FLUTTER / JSON / FIREBASE/ REST API
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhaziptesham" alt="minhaziptesham" /></a> </p>
 
-- 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Flutter  
-- 🤔 I’m looking for help with Flutter 
-- 💬 Ask me about Flutter & Dart 
-- 📫 How to reach me: www.facebook.com/minhazttb 
+- 🔭 I’m currently working on [Mcode](https://github.com/fahim165685/Mcode)
 
+- 🌱 I’m currently learning **Flutter ,Dart**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhazIptesham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minhazttb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.micky_19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AgMinhaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] 
+- 👨‍💻 All of my projects are available at [https://github.com/minhazIptesham/minhaziptesham](https://github.com/minhazIptesham/minhaziptesham)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **Flutter any Question**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhazIptesham)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **ag.minhazislam150@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhazIptesham)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@agminhaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@agminhaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/minhaz iptesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhaz iptesham" height="30" width="40" /></a>
+<a href="https://fb.com/minhazttb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhazttb" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.micky_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.micky_19" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhazIptesham&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/minhazIptesham)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaziptesham&show_icons=true&locale=en&layout=compact" alt="minhaziptesham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhaziptesham&show_icons=true&locale=en" alt="minhaziptesham" /></p>
